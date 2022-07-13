@@ -1,3 +1,4 @@
 client_id.txt
-data_tmp
+data/raw
+data/split
 data_old
