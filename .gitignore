@@ -2,3 +2,4 @@ client_id.txt
 data/raw
 data/split
 data_old
+**__pycache__
