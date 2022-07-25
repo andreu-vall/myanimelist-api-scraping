@@ -1,5 +1,3 @@
-client_id.txt
-data/raw
-data/split
-data_old
+data
 **__pycache__
+client_id.txt
